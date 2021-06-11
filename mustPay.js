@@ -1,3 +1,9 @@
+
+/**
+ * 
+ * @param {*} __$_$$$$_ start date
+ * @param {*} __$$$$ number of days
+ */
 function mustPayBy(__$_$$$$_, __$$$$){
     const __ = new Date(),___ = new Date(__$_$$$$_);
     __$$$$ = (function (_$_){
